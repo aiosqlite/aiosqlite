@@ -78,6 +78,37 @@
 
 ---
 
+## 🤖 Discord Development
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Building+Advanced+Discord+Systems;Custom+Features+%26+Automation;Private+Bot+Developer+%F0%9A%80" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-Discord%20Development-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Framework-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+</div>
+
+### ⚡ What I Build
+
+- 🤖 Advanced Discord Bots
+- 🛡️ Moderation Systems
+- 🎫 Ticket Systems
+- 🎵 Music Features
+- 📊 Server Management Tools
+- 🔥 Custom Utility Commands
+
+<p align="center">
+  <i>"Turning ideas into powerful Discord experiences."</i>
+</p>
+
+---
+
 ## 🎮 My Discord Projects
 
 <div align="center">
