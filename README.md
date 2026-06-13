@@ -1,16 +1,16 @@
 <!-- ================= 🔥 ANIMATED INTRO 🔥 ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=5865F2&center=true&vCenter=true&width=900&lines=Hey+There%2C+I'm+Dakshh+%F0%9F%91%8B;Discord+Bot+Developer+%F0%9F%A4%96;JavaScript+%7C+Node.js+%7C+Discord.js;Building+Awesome+Projects+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=5865F2&center=true&vCenter=true&width=900&lines=Hey+There%2C+I'm+Daksh+%F0%9F%91%8B;Discord+Bot+Developer+%F0%9F%A4%96;JavaScript+%7C+Node.js+%7C+Discord.js;Building+Awesome+Projects+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%92%BB" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=140&section=header&text=Dakshh&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=140&section=header&text=Daksh&fontSize=45&fontColor=ffffff" />
 </p>
 
 ---
 
-# 👋 Hi, I'm **Dakshh**
+# 👋 Hi, I'm **Daksh**
 
 <p align="center">
   🤖 Discord Bots • 💻 Programming • 🚀 Development
