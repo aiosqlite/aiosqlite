@@ -43,13 +43,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whynotdakshh&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aiosqlite&show_icons=true&theme=tokyonight"/>
   
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whynotdakshh&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aiosqlite&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=whynotdakshh&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aiosqlite&theme=tokyonight"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whynotdakshh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aiosqlite&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whynotdakshh&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aiosqlite&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@
 
 <p align="center">
 
-<a href="https://github.com/whynotdakshh">
+<a href="https://github.com/aiosqlite">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whynotdakshh&style=for-the-badge&color=5865F2" />
+  <img src="https://komarev.com/ghpvc/?username=aiosqlite&style=for-the-badge&color=5865F2" />
 </p>
 
 <p align="center">
