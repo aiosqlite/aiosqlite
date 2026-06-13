@@ -54,6 +54,16 @@
 
 ---
 
+## 🎧 Discord Presence
+
+<p align="center">
+  <a href="https://discord.com/users/1304640723458457712">
+    <img src="https://discord.c99.nl/widget/theme-4/1304640723458457712.png" />
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
