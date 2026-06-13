@@ -110,21 +110,21 @@
 
 ### 🌌 The Vault
 
-[![Discord Banner](https://discordapp.com/api/guilds/YOUR_SERVER_ID/widget.png?style=banner2)](YOUR_INVITE_LINK)
+[![Discord Banner](https://discordapp.com/api/guilds/1464924552353288205/widget.png?style=banner2)](https://discord.gg/7mqbTxjbJp)
 
 <br>
 
-[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Enter%20The%20Vault&logo=discord&style=for-the-badge&color=5865F2)](YOUR_INVITE_LINK)
+[![Discord](https://img.shields.io/discord/1464924552353288205?label=Enter%20The%20Vault&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/7mqbTxjbJp)
 
 <br><br>
 
 👥 Community Members
 
-![Members](https://img.shields.io/discord/YOUR_SERVER_ID?label=Members&logo=discord&color=7289DA)
+![Members](https://img.shields.io/discord/1464924552353288205?label=Members&logo=discord&color=7289DA)
 
 🟢 Currently Online
 
-![Online](https://img.shields.io/discord/YOUR_SERVER_ID?label=Online&logo=discord&color=2ECC71)
+![Online](https://img.shields.io/discord/1464924552353288205?label=Online&logo=discord&color=2ECC71)
 
 </div>
 
