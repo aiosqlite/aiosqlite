@@ -43,11 +43,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambanigaming0&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whynotdakshh&show_icons=true&theme=tokyonight"/>
+  
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whynotdakshh&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=whynotdakshh&theme=tokyonight"/>
 </p>
 
 ---
@@ -55,7 +57,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whynotdakshh&theme=discord&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=whynotdakshh&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -71,7 +73,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whynotdakshh&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whynotdakshh&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true"/>
 </p>
 
 ---
