@@ -78,17 +78,19 @@
 
 ---
 
-## 🤖 Discord Development
+## 🤖 Discord Development & Community
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Building+Advanced+Discord+Systems;Custom+Features+%26+Automation;Private+Bot+Developer+%F0%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=800&lines=Building+Advanced+Discord+Bots;Custom+Systems+%26+Automation;JavaScript+%7C+Node.js+%7C+Discord.js;Welcome+to+The+Vault+%F0%9A%80" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Focus-Discord%20Development-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Framework-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
@@ -99,12 +101,35 @@
 - 🤖 Advanced Discord Bots
 - 🛡️ Moderation Systems
 - 🎫 Ticket Systems
-- 🎵 Music Features
-- 📊 Server Management Tools
-- 🔥 Custom Utility Commands
+- 📊 Utility Commands
+- 🔥 Custom Server Solutions
+
+---
+
+<div align="center">
+
+### 🌌 The Vault
+
+[![Discord Banner](https://discordapp.com/api/guilds/YOUR_SERVER_ID/widget.png?style=banner2)](YOUR_INVITE_LINK)
+
+<br>
+
+[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Enter%20The%20Vault&logo=discord&style=for-the-badge&color=5865F2)](YOUR_INVITE_LINK)
+
+<br><br>
+
+👥 Community Members
+
+![Members](https://img.shields.io/discord/YOUR_SERVER_ID?label=Members&logo=discord&color=7289DA)
+
+🟢 Currently Online
+
+![Online](https://img.shields.io/discord/YOUR_SERVER_ID?label=Online&logo=discord&color=2ECC71)
+
+</div>
 
 <p align="center">
-  <i>"Turning ideas into powerful Discord experiences."</i>
+  <i>"Building bots, creating systems, and growing a community."</i>
 </p>
 
 ---
